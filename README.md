@@ -1,2 +1,2 @@
 # curriculum-vitae
-My resume
+My resume using HTML & CSS
